@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://creatememori.blog/</loc>
+    <image:image>
+      <image:loc>https://creatememori.blog/logo.png</image:loc>
+      <image:title>创忆录 MEMORI Logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://creatememori.blog/og-cover.png</image:loc>
+      <image:title>创忆录 MEMORI：免费资源、信息差与创作灵感库</image:title>
+    </image:image>
   </url>
 </urlset>
