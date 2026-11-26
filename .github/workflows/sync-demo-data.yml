@@ -4,6 +4,9 @@ on:
   schedule:
     # Every three hours, a few minutes past the hour (UTC).
     - cron: '17 */3 * * *'
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 permissions:
